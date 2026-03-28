@@ -50,11 +50,5 @@
 
 ---
 
-## 适用平台
-
-[OpenClaw 内网版](https://openclaw.woa.com) · AgentSkills 规范
-
----
-
 *出品：小龙虾战略军团 · 技术与能力进化中心*
 *最后更新：2026-03-28*
