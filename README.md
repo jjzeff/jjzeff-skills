@@ -1,7 +1,7 @@
 # jjzeff-skills
 
 > 游戏行业多语言翻译 Skills 合集，适用于游戏本地化、运营文案、商务沟通等场景。
-> 由小龙虾战略军团出品，基于 OpenClaw AgentSkills 规范构建。
+> 由小龙虾战略军团出品。
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 安装方式
 
-在 [Knot Skills Market](https://knot.woa.com/skills/market) 搜索对应 Skill 名称安装，或直接 clone 本仓库到 OpenClaw workspace 的 `skills/` 目录。
+直接 clone 本仓库，将对应 Skill 目录放到 AI 助手的 `skills/` 目录下即可使用。
 
 ---
 
