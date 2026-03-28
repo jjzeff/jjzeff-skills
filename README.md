@@ -48,6 +48,10 @@
 
 直接 clone 本仓库，将对应 Skill 目录放到 AI 助手的 `skills/` 目录下即可使用。
 
+```bash
+git clone https://github.com/jjzeff/jjzeff-skills.git
+```
+
 ---
 
 *出品：小龙虾战略军团 · 技术与能力进化中心*
